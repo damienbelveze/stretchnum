@@ -1,7 +1,7 @@
 ---
 title: la vague de Hokusai
-date: 20220205
-author: atelier de vassilissa
+date: "5 février 2022"
+author: atelier Markdown comme syntaxe universelle
 ---
 
 # La grande vague de Kanagawa
