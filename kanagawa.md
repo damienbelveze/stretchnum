@@ -1,16 +1,20 @@
 ---
 title: la vague de Hokusai
 date: 2022-05-02
-author: atelier Markdown comme syntaxe universelle
+subtitle: atelier Markdown comme syntaxe universelle
 ---
 
 # La grande vague de Kanagawa
+
+>les vagues
+lentement déferlent vers le rivage
+une lune à peine visible
 
 Le peintre Hokusai a peint cette estampe en 1830 ou 1831 pendant la
 Période *Edo* Cette oeuvre est la plus connue du peintre. La couleur qui
 y domine est le bleu de Prusse
 
-![grande vague de Kanagawa](images/wave.jpg)
+![grande vague de Kanagawa](images/wave.jpg){ width=50% }
 
 # signification de cette estampe
 
