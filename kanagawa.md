@@ -1,6 +1,6 @@
 ---
 title: la vague de Hokusai
-date: "5 février 2022"
+date: 2022-05-02
 author: atelier Markdown comme syntaxe universelle
 ---
 
