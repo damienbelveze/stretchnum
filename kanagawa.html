@@ -157,13 +157,26 @@
   </style>
   <style>
 
-  body{
+  /* le fait de mettre le css à l'interieur de balises <style> permettra d'utiliser la commande pandoc suivante :
+  pandoc -s fichierdépart.md -H fichier.css -o fichier_destination.html
+
+  l'argument -H encapsule tout le css dans le body du document html créé */
+
+
+
+  /* dimensionnement de la page à la taille de l'écran
+  couleur de fond */
+
+  html, body{
 
   background-color: #11191f;
+  width:100%;
+  height: 100%;
+  margin:0 auto;
   color: #ffffff;
-  width: "100%"
-
   }
+
+  /* couleur, taille et alignement du titre 1 = titre du document en markdown */
 
   h1{
 
@@ -172,11 +185,15 @@
     color: #edf0f3;
   }
 
+  /* couleur, taille et alignement du titre 2 */
+
   h2 {
     font-size: 1.75rem;
     text-align:center;
     color: #599fa6;
   }
+
+  /* espace de la citation */
 
   blockquote.style {
     font: 14px/20px italic Times, serif;
@@ -190,6 +207,8 @@
     background-repeat: no-repeat;
     text-indent: 23px;
     }
+
+  /* liste à puces, puces carrées */
 
   ul{
      list-style: square;;
