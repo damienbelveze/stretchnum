@@ -4,7 +4,7 @@ date: 2022-05-02
 subtitle: atelier Markdown comme syntaxe universelle
 ---
 
-# La grande vague de Kanagawa
+## La grande vague de Kanagawa
 
 >les vagues
 lentement déferlent vers le rivage
@@ -16,7 +16,7 @@ y domine est le bleu de Prusse
 
 ![grande vague de Kanagawa](images/wave.jpg){ width=50% }
 
-# signification de cette estampe
+## signification de cette estampe
 
 Il s'agit d'une **scène réaliste** mais avec un **aspect dramatique**.
 La signification de l'image varie d'ailleurs selon qu'on est occidental
@@ -26,3 +26,11 @@ vertical puis de droite à gauche)
 Pour un occidental, les barques se dirigent vers la droite et tentent de
 fuir la vague Pour un japonais, les barques dont les rameurs rament à
 contre-courant se précipitent vers le creux de la vague.
+
+# Préfecture de Kanagawa (principales villes)
+
+- Atsugi
+- Ayase
+- Chigasaki
+- Ebina
+- Fujisawa

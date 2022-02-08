@@ -1,0 +1,41 @@
+<style>
+
+body{
+
+background-color: #11191f;
+color: #ffffff;
+width: "100%"
+
+}
+
+h1{
+
+  text-align:center;
+  font-size: 2rem;
+  color: #edf0f3;
+}
+
+h2 {
+  font-size: 1.75rem;
+  text-align:center;
+  color: #599fa6;
+}
+
+blockquote.style {
+  font: 14px/20px italic Times, serif;
+  padding: 8px;
+  background-color: #141e26;
+  color: #a65980;
+  border-top: 1px solid #e1cc89;
+  border-bottom: 1px solid #e1cc89;
+  margin: 5px;
+  background-position: top left;
+  background-repeat: no-repeat;
+  text-indent: 23px;
+  }
+
+ul{
+   list-style: square;;
+}
+
+</style>
